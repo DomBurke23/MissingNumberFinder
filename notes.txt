@@ -23,3 +23,13 @@ O(log N) fixed time
 O(N) twice as long is input doubles
 O(N ^2) four times as long if input doubles. 
 O(2 ^N) increases exponentially as size increases. 
+
+Hash Table.
+A hash table is a data structure that is used to store keys/value pairs. 
+It uses a hash function to compute an index into an array in which an element will be inserted or searched.
+
+Auxiliary Array.
+Auxiliary data structure is a fancy way of saying helper data structure. 
+Something you might use to solve a given problem and is terminated after the problem is solved.
+Takes up temporary space for a period of time unlike a hash table. 
+

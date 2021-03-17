@@ -1,0 +1,25 @@
+Selection Sort aka Brute Force
+find smallest and exchange with 1st position - find 2nd smallest and swap to 2nd position etc. 
+O(N ^2) comparisons.
+Good for small files. 
+O(N) time taken. 
+
+2nd array costs time and memory. 
+
+Quicksort 
+divide and conquer. 
+fastest sorting algorithm. 
+Good for large files of N. 
+Pick pivot and move array items. 
+Recursive. 
+Worst Case O(N ^2) 
+Average O(n log n) if pivot chosen correctly. 
+
+Worst case = max # of steps taken 
+
+Big O Notations. 
+O(1) always terminates in the same amount of time. 
+O(log N) fixed time
+O(N) twice as long is input doubles
+O(N ^2) four times as long if input doubles. 
+O(2 ^N) increases exponentially as size increases. 

@@ -1,0 +1,5 @@
+https://www.geeksforgeeks.org/find-missing-elements-of-a-range/
+
+https://www.geeksforgeeks.org/quick-sort/
+
+https://www.geeksforgeeks.org/find-four-missing-numbers-array-containing-elements-1-n/
